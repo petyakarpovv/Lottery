@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main {
+public class Lottery {
     public static void main(String[] args) {
         List<Integer> lottery = new ArrayList<>();
         for (int i = 0; i < 100; i++) {
